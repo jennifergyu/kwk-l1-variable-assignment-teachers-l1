@@ -1,1 +1,1 @@
-puts paper
+print "paper"
