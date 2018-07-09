@@ -1,1 +1,1 @@
-print paper
+puts paper
